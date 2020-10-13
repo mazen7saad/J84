@@ -1,0 +1,562 @@
+<!-- MAZEN -->
+
+
+
+
+
+
+
+
+
+
+
+this.audios =[];
+        this.audios[0] = "audio/1.mp3";
+        
+		this.audios[1] = "https://server12.mp3quran.net/maher/002.mp3";
+        
+		this.audios[2] = "https://server12.mp3quran.net/maher/003.mp3";
+		
+		this.audios[3] = "https://server12.mp3quran.net/maher/004.mp3";
+		
+		this.audios[4] = "https://server12.mp3quran.net/maher/005.mp3";
+		
+		this.audios[5] = "https://server12.mp3quran.net/maher/006.mp3";
+		
+		this.audios[6] = "https://server12.mp3quran.net/maher/007.mp3";
+		
+		this.audios[7] = "https://server12.mp3quran.net/maher/008.mp3";
+		
+		this.audios[8] = "https://server12.mp3quran.net/maher/009.mp3";
+	
+		this.audios[9] = "https://server12.mp3quran.net/maher/010.mp3";
+		
+		this.audios[10] = "https://server12.mp3quran.net/maher/011.mp3";
+		
+		// 10
+		
+		this.audios[11] = "https://server12.mp3quran.net/maher/012.mp3";
+		
+		this.audios[12] = "https://server12.mp3quran.net/maher/013.mp3";
+		
+		this.audios[13] = "https://server12.mp3quran.net/maher/014.mp3";
+		
+		this.audios[14] = "https://server12.mp3quran.net/maher/015.mp3";
+		
+		this.audios[15] = "https://server12.mp3quran.net/maher/016.mp3";
+		
+		this.audios[16] = "https://server12.mp3quran.net/maher/017.mp3";
+		
+		this.audios[17] = "https://server12.mp3quran.net/maher/018.mp3";
+		
+		this.audios[18] = "https://server12.mp3quran.net/maher/019.mp3";
+		
+		this.audios[19] = "https://server12.mp3quran.net/maher/020.mp3";
+		
+		this.audios[20] = "https://server12.mp3quran.net/maher/021.mp3";
+		
+		// 20
+		
+		this.audios[21] = "https://server12.mp3quran.net/maher/022.mp3";
+		
+		this.audios[22] = "https://server12.mp3quran.net/maher/023.mp3";
+		
+		this.audios[23] = "https://server12.mp3quran.net/maher/024.mp3";
+		
+		this.audios[24] = "https://server12.mp3quran.net/maher/025.mp3";
+		
+		this.audios[25] = "https://server12.mp3quran.net/maher/026.mp3";
+		
+		this.audios[26] = "https://server12.mp3quran.net/maher/027.mp3";
+		
+		this.audios[27] = "https://server12.mp3quran.net/maher/028.mp3";
+		
+		this.audios[28] = "https://server12.mp3quran.net/maher/029.mp3";
+		
+		this.audios[29] = "https://server12.mp3quran.net/maher/030.mp3";
+		
+		this.audios[30] = "https://server12.mp3quran.net/maher/031.mp3";
+		
+		// 30
+		
+		this.audios[31] = "https://server12.mp3quran.net/maher/032.mp3";
+		
+		this.audios[32] = "https://server12.mp3quran.net/maher/033.mp3";
+		
+		this.audios[33] = "https://server12.mp3quran.net/maher/034.mp3";
+		
+		this.audios[34] = "https://server12.mp3quran.net/maher/035.mp3";
+		
+		this.audios[35] = "https://server12.mp3quran.net/maher/036.mp3";
+		
+		this.audios[36] = "https://server12.mp3quran.net/maher/037.mp3";
+		
+		this.audios[37] = "https://server12.mp3quran.net/maher/038.mp3";
+		
+		this.audios[38] = "https://server12.mp3quran.net/maher/039.mp3";
+		
+		this.audios[39] = "https://server12.mp3quran.net/maher/040.mp3";
+		
+		this.audios[40] = "https://server12.mp3quran.net/maher/041.mp3";
+		
+		// 40
+		
+		this.audios[41] = "https://server12.mp3quran.net/maher/042.mp3";
+		
+		this.audios[42] = "https://server12.mp3quran.net/maher/043.mp3";
+		
+		this.audios[43] = "https://server12.mp3quran.net/maher/044.mp3";
+		
+		this.audios[44] = "https://server12.mp3quran.net/maher/045.mp3";
+		
+		this.audios[45] = "https://server12.mp3quran.net/maher/046.mp3";
+		
+		this.audios[46] = "https://server12.mp3quran.net/maher/047.mp3";
+		
+		this.audios[47] = "https://server12.mp3quran.net/maher/048.mp3";
+		
+		this.audios[48] = "https://server12.mp3quran.net/maher/049.mp3";
+		
+		this.audios[49] = "https://server12.mp3quran.net/maher/050.mp3";
+		
+		this.audios[50] = "https://server12.mp3quran.net/maher/051.mp3";
+		
+		// 50
+		
+		this.audios[51] = "https://server12.mp3quran.net/maher/052.mp3";
+		
+		this.audios[52] = "https://server12.mp3quran.net/maher/053.mp3";
+		
+		this.audios[53] = "https://server12.mp3quran.net/maher/054.mp3";
+		
+		this.audios[54] = "https://server12.mp3quran.net/maher/055.mp3";
+		
+		this.audios[55] = "https://server12.mp3quran.net/maher/056.mp3";
+		
+		this.audios[56] = "https://server12.mp3quran.net/maher/057.mp3";
+		
+		this.audios[57] = "https://server12.mp3quran.net/maher/058.mp3";
+		
+		this.audios[58] = "https://server12.mp3quran.net/maher/059.mp3";
+		
+		this.audios[59] = "https://server12.mp3quran.net/maher/060.mp3";
+		
+		this.audios[60] = "https://server12.mp3quran.net/maher/061.mp3";
+		
+		// 60
+		
+		this.audios[61] = "https://server12.mp3quran.net/maher/062.mp3";
+		
+		this.audios[62] = "https://server12.mp3quran.net/maher/063.mp3";
+		
+		this.audios[63] = "https://server12.mp3quran.net/maher/064.mp3";
+		
+		this.audios[64] = "https://server12.mp3quran.net/maher/065.mp3";
+		
+		this.audios[65] = "https://server12.mp3quran.net/maher/066.mp3";
+		
+		this.audios[66] = "https://server12.mp3quran.net/maher/067.mp3";
+		
+		this.audios[67] = "https://server12.mp3quran.net/maher/068.mp3";
+		
+		this.audios[68] = "https://server12.mp3quran.net/maher/069.mp3";
+		
+		this.audios[69] = "https://server12.mp3quran.net/maher/070.mp3";
+		
+		this.audios[70] = "https://server12.mp3quran.net/maher/071.mp3";
+		
+		// 70
+		
+		this.audios[71] = "https://server12.mp3quran.net/maher/072.mp3";
+		
+		this.audios[72] = "https://server12.mp3quran.net/maher/073.mp3";
+		
+		this.audios[73] = "https://server12.mp3quran.net/maher/074.mp3";
+		
+		this.audios[74] = "https://server12.mp3quran.net/maher/075.mp3";
+		
+		this.audios[75] = "https://server12.mp3quran.net/maher/076.mp3";
+		
+		this.audios[76] = "https://server12.mp3quran.net/maher/077.mp3";
+		
+		this.audios[77] = "https://server12.mp3quran.net/maher/078.mp3";
+		
+		this.audios[78] = "https://server12.mp3quran.net/maher/079.mp3";
+		
+		this.audios[79] = "https://server12.mp3quran.net/maher/080.mp3";
+		
+		this.audios[80] = "https://server12.mp3quran.net/maher/081.mp3";
+		
+		// 80
+		
+		this.audios[81] = "https://server12.mp3quran.net/maher/082.mp3";
+		
+		this.audios[82] = "https://server12.mp3quran.net/maher/083.mp3";
+		
+		this.audios[83] = "https://server12.mp3quran.net/maher/084.mp3";
+		
+		this.audios[84] = "https://server12.mp3quran.net/maher/085.mp3";
+		
+		this.audios[85] = "https://server12.mp3quran.net/maher/086.mp3";
+		
+		this.audios[86] = "https://server12.mp3quran.net/maher/087.mp3";
+		
+		this.audios[87] = "https://server12.mp3quran.net/maher/088.mp3";
+		
+		this.audios[88] = "https://server12.mp3quran.net/maher/089.mp3";
+		
+		this.audios[89] = "https://server12.mp3quran.net/maher/090.mp3";
+		
+		this.audios[90] = "https://server12.mp3quran.net/maher/091.mp3";
+		
+		// 90
+		
+		this.audios[91] = "https://server12.mp3quran.net/maher/092.mp3";
+		
+		this.audios[92] = "https://server12.mp3quran.net/maher/093.mp3";
+		
+		this.audios[93] = "https://server12.mp3quran.net/maher/094.mp3";
+		
+		this.audios[94] = "https://server12.mp3quran.net/maher/095.mp3";
+		
+		this.audios[95] = "https://server12.mp3quran.net/maher/096.mp3";
+		
+		this.audios[96] = "https://server12.mp3quran.net/maher/097.mp3";
+		
+		this.audios[97] = "https://server12.mp3quran.net/maher/098.mp3";
+		
+		this.audios[98] = "https://server12.mp3quran.net/maher/099.mp3";
+		
+		this.audios[99] = "https://server12.mp3quran.net/maher/100.mp3";
+		
+		this.audios[100] = "https://server12.mp3quran.net/maher/101.mp3";
+		
+		// 100
+		
+		this.audios[101] = "https://server12.mp3quran.net/maher/102.mp3";
+		
+		this.audios[102] = "https://server12.mp3quran.net/maher/103.mp3";
+		
+		this.audios[103] = "https://server12.mp3quran.net/maher/104.mp3";
+		
+		this.audios[104] = "https://server12.mp3quran.net/maher/105.mp3";
+		
+		this.audios[105] = "https://server12.mp3quran.net/maher/106.mp3";
+		
+		this.audios[106] = "https://server12.mp3quran.net/maher/107.mp3";
+		
+		this.audios[107] = "https://server12.mp3quran.net/maher/108.mp3";
+		
+		this.audios[108] = "https://server12.mp3quran.net/maher/109.mp3";
+		
+		this.audios[109] = "https://server12.mp3quran.net/maher/110.mp3";
+		
+		this.audios[110] = "https://server12.mp3quran.net/maher/111.mp3";
+		
+		// 110
+		
+		this.audios[111] = "https://server12.mp3quran.net/maher/112.mp3";
+		
+		this.audios[112] = "https://server12.mp3quran.net/maher/113.mp3";
+		
+		this.audios[113] = "https://server12.mp3quran.net/maher/114.mp3";
+
+
+
+
+
+
+
+
+//========================================================================================================================
+
+
+
+
+this.names = [];
+        
+		this.names[0] = "«·›« Õ…";
+        
+		this.names[1] = "«·»ﬁ—…";
+        
+		this.names[2] = "¬· ⁄„—«‰";
+		
+		this.names[3] = "";
+		
+		this.names[4] = "";
+		
+		this.names[5] = "";
+		
+		this.names[6] = "";
+		
+		this.names[7] = "";
+        
+		this.names[8] = "";
+		
+		this.names[9] = "";
+		
+		this.names[10] = "";
+		
+		// 10
+		
+		this.names[11] = "";
+		
+		this.names[12] = "";
+		
+		this.names[13] = "";
+		
+		this.names[14] = "";
+		
+		this.names[15] = "";
+		
+		this.names[16] = "";
+		
+		this.names[17] = "";
+		
+		this.names[18] = "";
+		
+		this.names[19] = "";
+		
+		this.names[20] = "";
+		
+		// 20
+		
+		this.names[21] = "";
+		
+		this.names[22] = "";
+		
+		this.names[23] = "";
+		
+		this.names[24] = "";
+		
+		this.names[25] = "";
+		
+		this.names[26] = "";
+		
+		this.names[27] = "";
+		
+		this.names[28] = "";
+		
+		this.names[29] = "";
+		
+		this.names[30] = "";
+		
+		// 30
+		
+		this.names[31] = "";
+		
+		this.names[32] = "";
+		
+		this.names[33] = "";
+		
+		this.names[34] = "";
+		
+		this.names[35] = "";
+		
+		this.names[36] = "";
+		
+		this.names[37] = "";
+		
+		this.names[38] = "";
+		
+		this.names[39] = "";
+		
+		this.names[40] = "";
+		
+		// 40
+		
+		this.names[41] = "";
+		
+		this.names[42] = "";
+		
+		this.names[43] = "";
+		
+		this.names[44] = "";
+		
+		this.names[45] = "";
+		
+		this.names[46] = "";
+		
+		this.names[47] = "";
+		
+		this.names[48] = "";
+		
+		this.names[49] = "";
+		
+		this.names[50] = "";
+		
+		// 50
+		
+		this.names[51] = "";
+		
+		this.names[52] = "";
+		
+		this.names[53] = "";
+		
+		this.names[54] = "";
+		
+		this.names[55] = "";
+		
+		this.names[56] = "";
+		
+		this.names[57] = "";
+		
+		this.names[58] = "";
+		
+		this.names[59] = "";
+		
+		this.names[60] = "";
+		
+		// 60
+		
+		this.names[61] = "";
+		
+		this.names[62] = "";
+		
+		this.names[63] = "";
+		
+		this.names[64] = "";
+		
+		this.names[65] = "";
+		
+		this.names[66] = "";
+		
+		this.names[67] = "";
+		
+		this.names[68] = "";
+		
+		this.names[69] = "";
+		
+		this.names[70] = "";
+		
+		// 70
+		
+		this.names[71] = "";
+		
+		this.names[72] = "";
+		
+		this.names[73] = "";
+		
+		this.names[74] = "";
+		
+		this.names[75] = "";
+		
+		this.names[76] = "";
+		
+		this.names[77] = "";
+		
+		this.names[78] = "";
+		
+		this.names[79] = "";
+		
+		this.names[80] = "";
+		
+		// 80
+		
+		this.names[81] = "";
+		
+		this.names[82] = "";
+		
+		this.names[83] = "";
+		
+		this.names[84] = "";
+		
+		this.names[85] = "";
+		
+		this.names[86] = "";
+		
+		this.names[87] = "";
+		
+		this.names[88] = "";
+		
+		this.names[89] = "";
+		
+		this.names[90] = "";
+		
+		// 90
+		
+		this.names[91] = "";
+		
+		this.names[92] = "";
+		
+		this.names[93] = "";
+		
+		this.names[94] = "";
+		
+		this.names[95] = "";
+		
+		this.names[96] = "";
+		
+		this.names[97] = "";
+		
+		this.names[98] = "";
+		
+		this.names[99] = "";
+		
+		this.names[100] = "";
+		
+		// 100
+		
+		this.names[101] = "";
+		
+		this.names[102] = "";
+		
+		this.names[103] = "";
+		
+		this.names[104] = "";
+		
+		this.names[105] = "";
+		
+		this.names[106] = "";
+		
+		this.names[107] = "";
+		
+		this.names[108] = "";
+		
+		this.names[109] = "";
+		
+		this.names[110] = "";
+		
+		// 110
+		
+		this.names[111] = "";
+		
+		this.names[112] = "";
+		
+		this.names[113] = "";
+		
+
+		
+        
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		this.numberAudio =0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
